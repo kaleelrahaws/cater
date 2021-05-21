@@ -1,5 +1,10 @@
 1 apple
 5 mercedees
 3 cat
+<<<<<<< HEAD
 4 do
 6 zzz
+=======
+4 dog
+5 bellow 
+>>>>>>> dev
